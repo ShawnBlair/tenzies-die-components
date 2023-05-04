@@ -1,10 +1,8 @@
 # Tenzies: Die Components
 
-Introduction
+## Introduction
 
-```
 This is a Tenzies game React code being pushed. I am learning React through Scrimba.
-````
 
 ## Development
 
